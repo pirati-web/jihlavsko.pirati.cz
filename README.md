@@ -1,4 +1,4 @@
-# example.pirati.cz
+# jihlavsko.pirati.cz
 
 
 
