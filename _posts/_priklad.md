@@ -1,68 +1,77 @@
 ---
-layout: blog
-category: CLANKY
-title: Nadpis článku
-date: 2018-03-14T12:00:00.000Z
-author: Jmeno Prijmeni
-authorId: jmeno.prijmeni    # uid nekoho z _people
-image: posts/obrazek-u-tohoto-postu.jpg
-tags:
-  - tag 1
-  - tag 2
+date:       2018-08-20
+category:   blog
+tags:       volby Třebíč
+layout:     post
+title:      Koalice Společně otevřeme Třebíč představila volební program
+author:     Roman Pašek
+authorId:   roman.pasek    
+image:      #posts/2018-08-20-sot-program.jpg
 ---
 
-Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.
+**V červenci koalice Společně otevřeme Třebíč spustila dotazníkové šetření, které zjišťovalo, jaké problémy 
+trápí občany Třebíče nejvíce. Dotazník bylo možné vyplnit online nebo na několika místech v Třebíči papírovou 
+formou. Respondenti hodnotili námi vybraných deset nejpalčivějších problémů stupnicí 1 až 10, kde počet bodů 
+znamenal stupeň spokojenosti se současným stavem.**
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla accumsan, elit
-sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel
-leo. Fusce nibh. Etiam dictum tincidunt diam. Suspendisse nisl. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Sed elit dui, pellentesque a, faucibus vel, interdum nec, diam. Etiam
-dui sem, fermentum vitae, sagittis id, malesuada in, quam. Fusce tellus. Donec
-ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Class aptent
-taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.
-Fusce aliquam vestibulum ipsum. Vestibulum erat nulla, ullamcorper nec, rutrum
-non, nonummy ac, erat. Ut enim ad minima veniam, quis nostrum exercitationem
-ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+---
 
-Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
-dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
-volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
-dolor. Aliquam erat volutpat. Etiam ligula pede, sagittis quis, interdum
-ultricies, scelerisque eu. Cras elementum. Vestibulum fermentum tortor id mi.
-Etiam quis quam. Mauris elementum mauris vitae tortor. Fusce tellus. Integer
-rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae
-placerat pede sem sit amet enim. Ut enim ad minima veniam, quis nostrum
-exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-consequatur?
+Z dotazníkového šetření vyplynulo, že nejhůře v Třebíči občané vnímají nekoncepční plánování dopravních 
+uzavírek, nedostatek stavebních parcel a nedostatečnou participaci občanů. Všechny tyto problémy koalice 
+implementovala do svého volebního programu. Na personální úrovni je pak tato koalice díky spolupráci Pirátů 
+a TOP 09 schopna dosadit odborníky do různých oblastí.
 
-Quisque porta. Nulla pulvinar eleifend sem. Praesent id justo in neque elementum
-ultrices. Aliquam erat volutpat. Etiam dictum tincidunt diam. Itaque earum rerum
-hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias
-consequatur aut perferendis doloribus asperiores repellat. Fusce tellus odio,
-dapibus id fermentum quis, suscipit id erat. Vestibulum erat nulla, ullamcorper
-nec, rutrum non, nonummy ac, erat. Nulla est. Donec iaculis gravida nulla.
+---
 
-Vivamus porttitor turpis ac leo. Aliquam ante. Nullam justo enim, consectetuer
-nec, ullamcorper ac, vestibulum in, elit. Maecenas libero. Aliquam ornare wisi
-eu metus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis
-bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis
-enim ipsum id lacus. Nunc auctor. Fusce dui leo, imperdiet in, aliquam sit amet,
-feugiat eu, orci. Vestibulum fermentum tortor id mi. In dapibus augue non
-sapien. Mauris elementum mauris vitae tortor. Vivamus luctus egestas leo.
-Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Mauris dictum
-facilisis augue. Aenean placerat. Nullam lectus justo, vulputate eget mollis
-sed, tempor sed magna. Nullam feugiat, turpis at pulvinar vulputate, erat libero
-tristique tellus, nec bibendum odio risus sit amet ante. Fusce wisi. Phasellus
-enim erat, vestibulum vel, aliquam a, posuere eu, velit.
+**Výsledky dotazníkového šetření**
+* Plánování dopravních uzavírek (AP 3,1; MED 2)
+* Dostatek stavebních parcel (AP 3,3; MED 3)
+* Participace občanů (AP 3,7; MED 3)
+* Transparentnost (AP 4,0; MED 4)
+* Rovnoměrné investování mezi jednotlivými městskými částmi (AP 4,3; MED 5)
+* Kapacita sociálních bytů (AP 4,7; MED 5)
+* Stav zeleně (AP 4,9; MED 5)
+* Podpora nekomerční kultury (AP 5,1; MED 5)
+* Vybavenost ZŠ (AP 6,0; MED 6)
+* Umístění autobusových zastávek (AP 6,7; MED 7)
 
-Cras elementum. Integer vulputate sem a nibh rutrum consequat. Integer tempor.
-Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Vivamus
-porttitor turpis ac leo. Vivamus luctus egestas leo. Donec ipsum massa,
-ullamcorper in, auctor et, scelerisque sed, est. Phasellus rhoncus. Nam sed
-tellus id magna elementum tincidunt. Neque porro quisquam est, qui dolorem ipsum
-quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
-tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Duis
-ante orci, molestie vitae vehicula venenatis, tincidunt ac pede.
+Respondentů: 101, přibližně 2⁄3 online a 1⁄3 papírovou formou. 
 
-- - -
+AP - aritmetický průměr, MED - medián. 
+
+Bodové hodnocení 1 až 10. Vyšší počet bodů = vyšší spokojenost obyvatel.
+
+---
+
+_"Za hlavní programové priority pro Třebíč považuji zlepšení informovanosti a zapojení občanů do dění ve městě, územní 
+plánování a dopravu. Plánujeme v Třebíči zavést participativní rozpočtování, kde sami lidé budou mít šanci měnit tvář 
+Třebíče svými projekty. Co se týče územního plánování, tak by město mělo zajistit dostatek příležitostí pro stavbu nových 
+bytů nebo domů a to hlavně pro mladé rodiny. V Třebíči je delší dobu problém úbytek obyvatel. Mladí lidé se sem 
+nevrací, protože nemají kam. Díky spojení sil Pirátů a TOP 09 máme na tyto problémy opravdové odborníky a společně 
+otevřeme Třebíč,"_ představil hlavní cíle koalice lídr kandidátky Roman Pašek.
+
+* **Zapojení občanů do chodu města, participativní rozpočet, transparentnost**
+    Roman Pašek, Marie Vaverková, Miroslav Teplý
+* **Vyřešení dopravy v centru města, územní plánování, revitalizace centra města**
+    Karel Vaverka, Petr Fabík, Lukáš Petr
+* **Podmínky pro mladé po studiu**
+    Michal Bulant, Vít Šesták, Klára Sobolíková
+* **Kvalitní školství a vzdělávání**
+    Jan Břížďala, Svatopluk Dvořák, Pavel Průša
+* **Dostupné sociální služby, zdravotnictví**
+    Přemysl Císař, Jiří Beranovský, Marcel Dzurňák
+* **Podpora sportu a kultury**
+    Stanislav Neuman, Zdeněk Jakšík, Martin Tomek
+
+---
+
+**Kontakty pro média:**
+
+Roman Pašek, roman.pasek@pirati.cz, 734 507 329
+
+
+**Související odkazy:**
+
+[Volební program](http://spolecneotevremetrebic.cz/program/)
+
+---
