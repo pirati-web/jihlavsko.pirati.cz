@@ -29,9 +29,9 @@ main:
       - link: /lide/mo/
         name: Mediální odbor
         match: mo
-  - link: /zastupitele-obci/
-    name: Zastupitelé obcí
-    match: zastupitele-obci
+  - link: /zastupitelstvo/
+    name: Zastupitelstvo
+    match: zastupitelstvo
   - link: /kontakt/
     name: Kontakt
     match: kontakt
