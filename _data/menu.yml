@@ -3,7 +3,7 @@ top:
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
   - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz/regiony/vysocina/trebicsko"
+    url:  "https://wiki.pirati.cz/regiony/vysocina/jihlavsko"
     icon: "fa fa-home"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
@@ -17,31 +17,21 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Lidé
     match: lide
     submenu:
       - link: /lide/pms/
         name: Místní předsednictvo
         match: pms
+      - link: /lide/pks/
+        name: Krajské předsednictvo
+        match: pks
+      - link: /lide/mo/
+        name: Mediální odbor
+        match: mo
   - link: /zastupitele-obci/
     name: Zastupitelé obcí
     match: zastupitele-obci
-    submenu:
-      - link: /zastupitele-obci/trebic/
-        name: Třebíč
-        match: trebic        
-      - link: /zastupitele-obci/jaromerice/
-        name: Jaroměřice nad Rokytnou
-        match: jaromerice
-      - link: /zastupitele-obci/cechtin/
-        name: Čechtín
-        match: cechtin  
-      - link: /zastupitele-obci/chlum/
-        name: Chlum
-        match: chlum
-      - link: /zastupitele-obci/lhotice/
-        name: Lhotice
-        match: lhotice
   - link: /kontakt/
     name: Kontakt
     match: kontakt
