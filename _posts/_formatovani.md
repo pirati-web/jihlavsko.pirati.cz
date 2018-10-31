@@ -1,15 +1,14 @@
 ---
-date: 2018-06-11
-category: blog
+date:       2018-06-11
+category:   blog
 tags: 
-    - tag1 
-    - tag2
-layout: post
-title: Článek s videem místo obrázku
-author: Jmeno Prijmeni
-authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
-image: posts/obrazek-u-tohoto-postu.jpg
-youtubeVideoId: 5f0-nQLHHM4 # if youtubeVideoId is provided, it will replace the image as the main content
+  - tag1 
+  - tag2
+layout:     post
+title:      Článek s videem místo obrázku
+author:     Jmeno Prijmeni
+authorId:   jakub.pirat 
+image:      #posts/obrazek-u-tohoto-postu.jpg
 ---
 
 Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.
@@ -149,5 +148,14 @@ quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
 tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Duis
 ante orci, molestie vitae vehicula venenatis, tincidunt ac pede.
 
+# Youtube
 
-- - -
+Lze embeddovat pomocí vložení:
+
+```{% raw %}{% include youtube.html id='id youtube videa' %}{% endraw %}```
+
+Výsledek pak vypadá takto:
+
+{% include youtube.html id='5f0-nQLHHM4' %}
+
+---
