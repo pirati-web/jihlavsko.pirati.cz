@@ -7,6 +7,8 @@ category:
   - pms
   - pks
   - mo
+  - koks
+  - kontaktni_osoba
 ordpms:       3
 ordpks:       2
 ordmo:        1
