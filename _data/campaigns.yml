@@ -1,11 +1,5 @@
-- groupUid: trebic-2018  
-  title: Komunální volby 2018 
+- groupUid:   jihlavsko-2018  
+  title:      Komunální volby 2018 
   campaigns:
-    - title: Třebíč  
-      categoryUid: trebic2018
-
-- groupUid: jaromerice-2018  
-  title: Komunální volby 2018 
-  campaigns:
-    - title: Jaroměřice nad Rokytnou  
-      categoryUid: jaromerice2018
+    - title:        Jihlavsko
+      categoryUid:  jihlavsko2018
