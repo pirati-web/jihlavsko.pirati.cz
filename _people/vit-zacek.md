@@ -9,7 +9,7 @@ category:
 ordpms:       3
 ordmo:        2
 description:  2. místopředseda Místního sdružení Jihlavsko
-profession:   student
+profession:   Student
 img:          people/vit-zacek.jpg
 mail:
   - vit.zacek@pirati.cz
