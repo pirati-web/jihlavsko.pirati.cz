@@ -1,7 +1,7 @@
 ---
 uid:          vojtech.prchal
 name:         Vojtěch Prchal
-description:  registrovaný příznivec
+description:  Registrovaný příznivec
 profession:   Produktový manažer v inovačním prostředí, doktorand, hodnotitel pro ekonomické vysokoškolské programy v Národním akreditačním úřadu
 img:          people/vojtech-prchal.jpg
 mail:
