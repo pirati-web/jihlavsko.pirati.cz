@@ -8,7 +8,7 @@ category:
   - mo
 ordpms:       1
 ordmo:        2
-description:  předseda Místního sdružení Jihlavsko)
+description:  předseda Místního sdružení Jihlavsko
 profession:   Student, praktikant ve firmě Automotive Lighting s.r.o.
 img:          people/tomas-bouda.jpg
 mail:
