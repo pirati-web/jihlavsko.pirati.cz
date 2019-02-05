@@ -1,7 +1,9 @@
 ---
 uid:          marta.kozdas
 name:         Marta Kozdas
-description:  Registrovaná příznivkyně
+category:
+  - clenove
+description:  registrovaná příznivkyně
 profession:   Ředitelka základní a mateřské školy
 img:          people/marta-kozdas.jpg
 mail:
