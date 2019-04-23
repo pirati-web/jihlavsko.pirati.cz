@@ -1,5 +1,6 @@
 ---
 layout: page
+viewMode: alltogether
 category: zastupitelstvo
 title: Zastupitelstvo Jihlavy
 description: Zastupitelstvo města Jihlava.
