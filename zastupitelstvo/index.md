@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: members
 viewMode: alltogether
 category: zastupitelstvo
 sort: ordza
