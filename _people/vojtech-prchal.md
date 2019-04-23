@@ -4,6 +4,7 @@ name:         Vojtěch Prchal
 category:
   - clenove
   - msjihlavsko
+  - zastupitelstvo
 description:  registrovaný příznivec
 profession:   Produktový manažer v inovačním prostředí, doktorand, hodnotitel pro ekonomické vysokoškolské programy v Národním akreditačním úřadu
 img:          people/vojtech-prchal.jpg
