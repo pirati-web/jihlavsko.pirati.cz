@@ -8,7 +8,7 @@ category:
 ordpks:       3
 description:  člen Místního sdružení Jihlavsko, 3. místopředseda Krajského sdružení Vysočina
 profession:   Správce Jihlavského pirátského centra
-img:          people/ondra-tuma.jpg
+img:          people/ondrej-tuma.jpg
 mail:
   - ondrej.tuma@pirati.cz
 mob:
