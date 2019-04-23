@@ -4,6 +4,7 @@ name:         Eva Nováková
 category:
   - clenove
   - msjihlavsko
+  - zastupitelstvo
   - pms
   - mo
 ordpms:       2
