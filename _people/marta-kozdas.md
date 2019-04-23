@@ -3,6 +3,7 @@ uid:          marta.kozdas
 name:         Marta Kozdas
 category:
   - clenove
+  - msjihlavsko
 description:  registrovaná příznivkyně
 profession:   Ředitelka základní a mateřské školy
 img:          people/marta-kozdas.jpg
