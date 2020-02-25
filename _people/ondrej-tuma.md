@@ -6,7 +6,7 @@ category:
   - msjihlavsko
   - pks
 ordpks:       3
-description:  člen Místního sdružení Jihlavsko, 3. místopředseda Krajského sdružení Vysočina
+description:  člen Místního sdružení Jihlavsko, Správce kraje
 profession:   Správce Jihlavského pirátského centra
 img:          people/ondrej-tuma.jpg
 mail:
