@@ -9,7 +9,7 @@ category:
   - mo
 ordpms:       2
 ordmo:        2
-description:  1. místopředsedkyně Místního sdružení Jihlavsko)
+description:  1. místopředsedkyně Místního sdružení Jihlavsko, 3. místopředsedkyně Krajského sdružení Vysočina
 profession:   Plánovačka logistiky ve firmě Bosch
 img:          people/eva-novakova.jpg
 mail:
