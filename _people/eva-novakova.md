@@ -6,9 +6,9 @@ category:
   - msjihlavsko
   - zastupitelstvo
   - pms
-  - mo
+  - pks
 ordpms:       2
-ordmo:        2
+ordpks:       3
 description:  1. místopředsedkyně Místního sdružení Jihlavsko, 3. místopředsedkyně Krajského sdružení Vysočina
 profession:   Plánovačka logistiky ve firmě Bosch
 img:          people/eva-novakova.jpg
@@ -28,3 +28,8 @@ Kromě toho s místním kolektivem Jídlo místo zbraní pravidelně vaří vega
 Pracovně ještě občas překládá pro romistický časopis, v minulosti učila romštinu, dělala PR pro pár projektů (Férové bydlení, Stan romské kultury) nebo působila jako manažerka kapely Terne Čhave. V pražském klubu Cross dva roky organizovala UFOSS - večery zaměřené na různá romská/romistická témata. Předtím se věnovala tématu nenásilného palestinského hnutí proti okupaci.
 
 Ve volném čase se snaží věnovat akrobacii na šálách a pohybu obecně. Na oblíbenou aktivitu bike pólo už bohužel moc času nezbývá.
+
+---
+
+**Piráti:**
+* Na schůzky v Jihlavském pirátském centru jsem začala chodit v lednu 2018, s prvotním zájmem zejména o komunální politiku. Mým cílem bylo zaktivizovat místní příznivce Pirátů, aby mohli kandidovat v podzimních volbách do zastupitelstva města Jihlavy. Účastnila jsem se vyjednávání s partnerskými politickými subjekty a v červnu byla v primárních volbách zvolena lídryní pirátské části koaliční kandidátky Žijeme Jihlavou!, na které se kromě Pirátů podílí i TOP 09 a Zelení. Členkou jsem se stala na jaře 2018 a v létě pak i zakládající členkou MS Jihlavsko. V Pirátech se zatím soustředím zejména na volby, zapojuji se ale i do aktivit kraje a do vydávání Pirátských listů.
