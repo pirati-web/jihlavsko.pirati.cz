@@ -4,8 +4,6 @@ name:         Ondřej Tůma
 category:
   - clenove
   - msjihlavsko
-  - pks
-ordpks:       3
 description:  člen Místního sdružení Jihlavsko, Správce kraje
 profession:   Správce Jihlavského pirátského centra
 img:          people/ondrej-tuma.jpg
